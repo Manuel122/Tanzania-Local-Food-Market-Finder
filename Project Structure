@@ -1,0 +1,14 @@
+tanzania-market-finder/
+│
+├── app.py                # Flask backend
+├── requirements.txt      # Python dependencies
+├── data/
+│   └── markets.json      # Sample data of markets
+├── static/
+│   ├── style.css         # Basic styling
+│   └── script.js         # Map handling
+├── templates/
+│   └── index.html        # Main frontend page
+├── README.md
+├── LICENSE
+└── .gitignore
